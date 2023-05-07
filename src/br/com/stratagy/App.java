@@ -6,7 +6,7 @@ public class App {
 
 	public static void main(String[] args) {
 
-		Game game = new Game();
+		GameContext game = new GameContext();
 		
 		game.setStrategy(new HardStrategy());
 		game.play();

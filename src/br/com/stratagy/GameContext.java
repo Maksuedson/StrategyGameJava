@@ -1,6 +1,6 @@
 package br.com.stratagy;
 
-public class Game {
+public class GameContext {
 	
 	private Strategy strategy;
 	
